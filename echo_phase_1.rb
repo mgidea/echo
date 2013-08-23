@@ -1,4 +1,3 @@
-
   puts "what do you want to say?"
   print "> "
   reply = gets.chomp
